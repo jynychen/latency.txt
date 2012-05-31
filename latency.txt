@@ -1,4 +1,4 @@
-By Jeff Dean:
+By Jeff Dean (http://research.google.com/people/jeff/):
 
 L1 cache reference                  0.5 ns
 Branch mispredict                   5 ns
