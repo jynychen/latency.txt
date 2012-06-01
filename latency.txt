@@ -10,7 +10,7 @@ Round trip within same datacenter       500,000   ns    0.5  ms
 Read 1 MB sequentially from SSD       1,000,000   ns    1    ms  4X memory
 Disk seek                            10,000,000   ns   10    ms  20x datacenter roundtrip
 Read 1 MB sequentially from disk     20,000,000   ns   20    ms  80x memory, 20X SSD
-Send packet CA->Netherlands->CA     150,000,000   ns  150   ms
+Send packet CA->Netherlands->CA     150,000,000   ns  150    ms
 
 1 ns = 10-9 seconds
 1 ms = 10-3 seconds
