@@ -13,8 +13,8 @@ Read 1 MB sequentially from disk     20,000,000   ns   20    ms  80x memory, 20X
 Send packet CA->Netherlands->CA     150,000,000   ns  150   ms
 
 By Jeff Dean (http://research.google.com/people/jeff/)
-With some updates from Brendan: http://brenocon.com/dean_perf.html
-Comparisons from https://gist.github.com/2844130
+Originally by Peter Norvig (http://norvig.com/21-days.html#answers)
+With some updates from Brendan (http://brenocon.com/dean_perf.html)
 
 Assuming ~1GB/sec SSD
 
