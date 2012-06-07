@@ -22,3 +22,4 @@ Originally by Peter Norvig (http://norvig.com/21-days.html#answers)
 Some updates from: https://gist.github.com/2843375
 Great 'humanized' comparison version: https://gist.github.com/2843375
 Visual comparison chart: http://i.imgur.com/k0t1e.png
+Nice animated presentation of the data: http://prezi.com/pdkvgys-r0y6/latency-numbers-for-programmers-web-development/
