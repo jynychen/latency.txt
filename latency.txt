@@ -17,8 +17,8 @@ Send packet CA->Netherlands->CA     150,000,000   ns  150    ms
 
 Notes
 -----
-1 ns = 10-9 seconds
-1 ms = 10-3 seconds
+1 ns = 10^-9 seconds
+1 ms = 10^-3 seconds
 * Assuming ~1GB/sec SSD
 
 Credit
