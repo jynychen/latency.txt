@@ -1,5 +1,5 @@
-Latency Comparison Numbers
---------------------------
+Latency Comparison Numbers (~2012)
+----------------------------------
 L1 cache reference                           0.5 ns
 Branch mispredict                            5   ns
 L2 cache reference                           7   ns                      14x L1 cache
@@ -28,7 +28,5 @@ Originally by Peter Norvig: http://norvig.com/21-days.html#answers
 
 Contributions
 -------------
-Some updates from:       https://gist.github.com/2843375
-'Humanized' comparison:  https://gist.github.com/2843375
+'Humanized' comparison:  https://gist.github.com/hellerbarde/2843375
 Visual comparison chart: http://i.imgur.com/k0t1e.png
-Animated presentation:   http://prezi.com/pdkvgys-r0y6/latency-numbers-for-programmers-web-development/latency.txt
